@@ -6,6 +6,7 @@
 ```
 mvn clean package
 and build the instruction .
+om check
 ```
 
 # Deploy instruction
