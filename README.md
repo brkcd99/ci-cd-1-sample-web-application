@@ -6,7 +6,7 @@
 ```
 mvn clean package
 and build the instruction .
-om check
+
 ```
 om muruga 
 om om
